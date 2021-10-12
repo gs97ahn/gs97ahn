@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on mobile application development using Flutter
 - 🌱 I’m currently learning AWS, Flutter
-- 
 <!--
 **gs97ahn/gs97ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
