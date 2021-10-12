@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs97ahn&layout=compact&hide=objective-c,shell,java,swift,kotlin)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs97ahn&layout=compact&hide=objective-c,shell,java,swift,kotlin)
