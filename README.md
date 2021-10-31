@@ -31,6 +31,9 @@
 - Cross-Platform Mobile Application을 Flutter Framework
 - AWS Cognito를 사용해서 Session을 이용하여 사용자 인증
 
+#### INU IMPRESS LAB (2021.10 ~ 현재)
+- Reinforcement Learning 세미나 발표
+
 <!--
 **gs97ahn/gs97ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
