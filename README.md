@@ -20,10 +20,10 @@
 - MySQL
 
 #### Backend
-- C, Python
+- C, C#, C++, Python
 
 #### Collaboration & Tools
-- Slack, Github
+- Github, Git, Notion, Slack
 - IntelliJ, Visual Studio Code, PyCharm, Android Studio
 
 ### 👔 Work Experience
