@@ -29,7 +29,8 @@
 ### 👔 Work Experience
 #### AnyLife (2021.08 ~ 현재)
 - Cross-Platform Mobile Application을 Flutter Framework로 개발
-- AWS Cognito을 연결하여 Session을 통한 사용자 인증  구현
+- AWS Amplify 연결
+- AWS Cognito을 연결하여 사용자 인증 구현
 
 #### INU IMPRESS LAB (2021.10 ~ 현재)
 - Reinforcement Learning 세미나 발표
