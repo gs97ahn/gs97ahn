@@ -16,7 +16,7 @@
 - Flutter
 
 #### DevOps
-- AWS - Amplify, Cognito, S3
+- AWS - Amplify, Cognito, DynamoDB, S3
 - MySQL
 
 #### Backend
