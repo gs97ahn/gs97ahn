@@ -18,6 +18,7 @@
 #### DevOps
 - AWS - Amplify, Cognito, DynamoDB, S3
 - MySQL
+- Graphql
 
 #### Backend
 - C, C#, C++, Python
@@ -31,6 +32,7 @@
 - Cross-Platform Mobile Application을 Flutter Framework로 개발
 - AWS Amplify 연결
 - AWS Cognito을 연결하여 사용자 인증 구현
+- AWS DynamoDB를 연결하여 데이터베이스 관리
 
 #### INU IMPRESS LAB (2021.10 ~ 현재)
 - Reinforcement Learning 세미나 발표
