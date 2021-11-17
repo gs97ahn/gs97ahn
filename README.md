@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 #### Introduction
-- 안녕하세요 저는 1년차 Flutter Developer & AWS DevOps Engineer 안검성입니다.
+- 안녕하세요 저는 1년차 Full Stack 안검성입니다.
 - 효율적인 코드, 읽기 쉬운 코드를 위해 꾸준히 노력하고 있습니다.
 - 포기하지 않으면 언젠간 도달한다는 생각으로 1일 1커밋 운동을 하고 있습니다.
 
@@ -18,10 +18,11 @@
 #### DevOps
 - AWS - Amplify, Cognito, DynamoDB, S3
 - MySQL
-- Graphql
+- GraphQL
 
 #### Backend
 - C, C#, C++, Python
+- Flask
 
 #### Collaboration & Tools
 - Github, Git, Notion, Slack
