@@ -30,7 +30,7 @@
 
 ### 👔 Work Experience
 #### AnyLife (2021.08 ~ 현재)
-- Cross-Platform Mobile Application을 Flutter Framework로 개발
+- Cross-Platform Mobile Application을 Flutter로 개발
 - AWS Amplify 연결
 - AWS Cognito을 연결하여 사용자 인증 구현
 - AWS DynamoDB를 연결하여 데이터베이스 관리
