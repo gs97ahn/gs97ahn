@@ -5,6 +5,11 @@
 - 안녕하세요 저는 1년차 Full Stack 개발자 안검성입니다.
 - 효율적인 코드, 읽기 쉬운 코드를 위해 꾸준히 노력하고 있습니다.
 
+#### Currently Interested in
+- Brownie
+- Flutter
+- AWS
+
 #### Contact
 - Email: gs97ahn@naver.com
 
@@ -22,6 +27,10 @@
 #### Backend
 - C, C#, C++, Python
 - Flask
+
+#### Blockchain
+- Solidity
+- Brownie
 
 #### Collaboration & Tools
 - Github, Git, Notion, Slack
