@@ -45,7 +45,9 @@
 
 #### INU IMPRESS LAB (2021.10 ~ 현재)
 - Reinforcement Learning 세미나 발표
+- NVIDIA NeMo Framework로 가능한 음성인식
 
+#### Sheft (2021.01 ~ 현재)
 <!--
 **gs97ahn/gs97ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
