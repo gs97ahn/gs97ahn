@@ -18,6 +18,7 @@
 - HTML, CSS, Javascript
 - Dart, Kotlin
 - Flutter
+- Visual Studio Code, Android Studio
 
 #### DevOps
 - AWS - Amplify, Cognito, DynamoDB, S3
@@ -27,14 +28,15 @@
 #### Backend
 - C, C#, C++, Python
 - Flask
+- Visual Studio 2019, PyCharm, IntelliJ
 
 #### Blockchain
 - Solidity
 - Brownie
+- Visual Studio Code
 
 #### Collaboration & Tools
 - Github, Git, Notion, Slack
-- IntelliJ, Visual Studio Code, PyCharm, Android Studio
 
 ### 👔 Work Experience
 #### AnyLife (2021.08 ~ 현재)
