@@ -15,15 +15,13 @@
 
 ### 💻 Skills
 #### Frontend
-- HTML, CSS, Javascript
-- Dart, Kotlin
-- Flutter
+- HTML, CSS, Javascript, Dart, Kotlin
+- Flutter, React
 - Visual Studio Code, Android Studio
 
 #### DevOps
 - AWS - Amplify, Cognito, DynamoDB, S3
-- MySQL
-- GraphQL
+- MySQL, GraphQL
 
 #### Backend
 - C, C#, C++, Python
@@ -39,17 +37,22 @@
 - Github, Git, Notion, Slack
 
 ### 👔 Work Experience
-#### AnyLife (2021.08 ~ 현재)
-- Cross-Platform Mobile Application을 Flutter로 개발
+#### AnyLife (2021.08 ~ 2022.02)
+- Flutter로 Mobile Application 개발
 - AWS Amplify 연결
-- AWS Cognito을 연결하여 사용자 인증 구현
-- AWS DynamoDB를 연결하여 데이터베이스 관리
+- AWS Cognito 연결
+- AWS DynamoDB 연결
+- AWS S3 연결
 
 #### INU IMPRESS LAB (2021.10 ~ 현재)
 - Reinforcement Learning 세미나 발표
 - NVIDIA NeMo Framework로 가능한 음성인식
+- Speech Recording With Wake Word
+- Detect and Record Audio
+- Urban Sound Classification MFCC 2 Class
 
 #### Sheft (2021.01 ~ 현재)
+- React로 유저 홍보 및 설문조사 Web 개발
 <!--
 **gs97ahn/gs97ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
