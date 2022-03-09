@@ -24,8 +24,7 @@
 - MySQL, GraphQL
 
 #### Backend
-- C, C#, C++, Python
-- Flask
+- C, C++, C#, Python
 - Visual Studio 2019, PyCharm, IntelliJ
 
 #### Blockchain
@@ -49,6 +48,7 @@
 - NVIDIA NeMo Framework로 가능한 음성인식
 - Speech Recording With Wake Word
 - Detect and Record Audio
+- Urban Sound Classification Mel-Spectrogram 2 Class
 - Urban Sound Classification MFCC 2 Class
 
 #### Sheft (2021.01 ~ 현재)
