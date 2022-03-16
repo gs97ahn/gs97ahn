@@ -15,7 +15,7 @@
 
 ### 💻 Skills
 #### Frontend
-- HTML, CSS, Javascript, Dart, Kotlin
+- HTML5, CSS3, Javascript, Dart, Kotlin
 - Flutter, React
 - Visual Studio Code, Android Studio
 
