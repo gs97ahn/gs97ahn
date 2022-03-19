@@ -40,7 +40,7 @@
 - Github, Git, Notion, Slack
 
 ### 👔 Work Experience
-#### AnyLife (2021.08 ~ 2022.02)
+#### Fliption (2021.08 ~ 2022.02)
 - Flutter로 Mobile Application 개발
 - AWS - Amplify, Cognito, DynamoDB, S3 연결
 
