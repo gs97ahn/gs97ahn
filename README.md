@@ -54,7 +54,7 @@
 - NVIDIA Jetson Nano 2GB를 활용한 실시간 기동어 인식 시스템 구현에 관한 연구(한국음향학회 학술대회 발표)
 
 
-#### Sheft (2022.01 ~ 현재)
+#### Vinovater (2022.01 ~ 현재)
 - React로 유저 홍보 및 설문조사 Web 개발
 <!--
 **gs97ahn/gs97ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
