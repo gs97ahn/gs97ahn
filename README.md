@@ -4,6 +4,7 @@
 #### Introduction
 - 안녕하세요 저는 1년차 Full Stack 개발자 안검성입니다.
 - 효율적인 코드, 읽기 쉬운 코드를 위해 꾸준히 노력하고 있습니다.
+- 성장하고 새로운 것을 배우는 걸 즐깁니다.
 
 #### Currently Interested in
 - Brownie
