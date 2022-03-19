@@ -24,7 +24,7 @@
 - MySQL, GraphQL
 
 #### Backend
-- C, C++, C#, Python
+- C, C++, C#, Java, Python
 - Visual Studio 2019, PyCharm, IntelliJ
 
 #### Blockchain
