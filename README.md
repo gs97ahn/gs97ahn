@@ -46,12 +46,6 @@
 - AWS - Amplify, Cognito, DynamoDB, S3 연결
 
 #### INU IMPRESS LAB (2021.10 ~ 현재)
-- Reinforcement Learning 세미나 발표
-- NVIDIA NeMo Framework로 가능한 음성인식
-- Speech Recording With Wake Word
-- Detect and Record Audio
-- Urban Sound Classification Mel-Spectrogram 2 Class
-- Urban Sound Classification MFCC 2 Class
 - NVIDIA Jetson Nano 2GB를 활용한 실시간 기동어 인식 시스템 구현에 관한 연구(한국음향학회 학술대회 발표)
 
 
