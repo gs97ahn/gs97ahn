@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs97ahn&layout=compact&hide=objective-c,swift,kotlin,html,jupyter_notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs97ahn&layout=compact&hide=objective-c,swift,kotlin,html,jupyter%20notebook)
 
 <!--
 **gs97ahn/gs97ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
